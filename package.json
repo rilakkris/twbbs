@@ -1,0 +1,15 @@
+{
+  "name": "twbbs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "ansi-tokenizer": "^1.0.10",
+    "iconv-lite": "^0.4.17"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chia-Feng Lin",
+  "license": "MIT"
+}
